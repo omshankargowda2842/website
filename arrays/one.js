@@ -1,0 +1,11 @@
+let a=[3,67,85,90,34,56]
+console.log(a)
+console.log(a[3])
+console.log (a.pop())
+ console.log( a.push(45))
+console.log(a)
+console.log(a.length)
+console.log(a.shift())
+console.log(a)
+console.log(a.unshift(14))
+console.log(a)
